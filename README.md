@@ -26,11 +26,11 @@ analyzing the Cyclistic historical bike trip data to identify trends.
   
 ## Question: 
    
-  ==> How do annual members and casual riders use Cyclistic bikes dierently?
+  ==> How do annual members and casual riders use Cyclistic bikes differently?
 
 
 
-### Sources of the datasets 
+### Source of the datasets
 We will be using a public dataset published by Divvy a bike sharing company in Chicago:
 1. About [Divvy](https://www.divvybikes.com/about)
 2. Original [link](https://divvy-tripdata.s3.amazonaws.com/index.html) to the dataset.
