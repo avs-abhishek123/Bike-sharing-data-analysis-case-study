@@ -22,7 +22,7 @@ that, however, the marketing analyst team needs to better understand how annual 
 riders would buy a membership, and how digital media could aect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
  
-   ![img](AppInterface.JPG)
+   ![img](bikes.JPG)
   
 ## Question: 
    
