@@ -6,7 +6,7 @@
 This is a data analysis case study of a bike sharing rides data, it's the final Capstone project in the Google Data Analytics Professional Certificate program.
 
 
-**The company**
+## The company
 
 In 2016, Cyclistic launched a successful bike-share oering. Since then, the program has grown to a fleet of 5,824 bicycles that
 are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
@@ -32,7 +32,7 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 
 
 
-### Source of the datasets
+## Source of the datasets
 We will be using a public dataset published by Divvy a bike sharing company in Chicago:
 1. About [Divvy](https://www.divvybikes.com/about)
 2. Original [link](https://divvy-tripdata.s3.amazonaws.com/index.html) to the dataset.
