@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/python-v3.7-blue) ![Pandas](https://img.shields.io/badge/Pandas-v1.1.5-brightgreen) ![Seaborn](https://img.shields.io/badge/Seaborn-v0.11.1-red) 
 
 ## Project Description:
-*This is a data analysis case study of a bike sharing rides data, it's the final Capstone project in the Google Data Analytics Professional Certificate program.
+This is a data analysis case study of a bike sharing rides data, it's the final Capstone project in the Google Data Analytics Professional Certificate program.
+
+
 **The company**
 
 In 2016, Cyclistic launched a successful bike-share oering. Since then, the program has grown to a fleet of 5,824 bicycles that
