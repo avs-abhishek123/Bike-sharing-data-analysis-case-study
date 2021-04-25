@@ -1,6 +1,6 @@
 # Bike sharing data analysis case study 
 
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![Python](https://img.shields.io/badge/python-v3.7-blue) ![Pandas](https://img.shields.io/badge/Pandas-v1.1.5-brightgreen) ![Seaborn](https://img.shields.io/badge/Seaborn-v0.11.1-red) 
 
 ## Project Description:
 *This is a data analysis case study of a bike sharing rides data, it's the final Capstone project in the Google Data Analytics Professional Certificate program.
